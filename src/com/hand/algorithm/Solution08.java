@@ -20,6 +20,6 @@ public class Solution08 {
             prepre = pre;
             pre = result;
         }
-        return pre;
+        return result;
     }
 }
