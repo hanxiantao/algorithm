@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1111d498-2c54-4c60-b89d-26e932b90fc2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/hand/algorithm/Solution17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hand/algorithm/Solution18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hand/algorithm/Solution19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hand/algorithm/Solution20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hand/algorithm/Solution21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hand/algorithm/Solution22.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +70,7 @@
       <workItem from="1578226821351" duration="1119000" />
       <workItem from="1578228410904" duration="441000" />
       <workItem from="1578271380476" duration="98000" />
-      <workItem from="1578272109038" duration="1677000" />
+      <workItem from="1578272109038" duration="2902000" />
     </task>
     <task id="LOCAL-00001" summary="2020.01.05：第10题、12题-15题目">
       <created>1578226291943</created>
@@ -88,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578227765661</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2020.01.06：17-20题">
+      <created>1578321414391</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578321414391</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,17 +102,19 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2020.01.05：第10题、12题-15题目" />
     <MESSAGE value="2020.01.05：第16题" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.01.05：第16题" />
+    <MESSAGE value="2020.01.06：17-20" />
+    <MESSAGE value="2020.01.06：17-20题" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.01.06：17-20题" />
   </component>
   <component name="WindowStateProjectService">
     <state x="304" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578221134353">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state x="304" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.960@0.23.1680.960" timestamp="1578221134353" />
-    <state x="434" y="101" key="CommitChangelistDialog2" timestamp="1578227765494">
+    <state x="434" y="101" key="CommitChangelistDialog2" timestamp="1578321414191">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state x="434" y="101" key="CommitChangelistDialog2/0.23.1680.960@0.23.1680.960" timestamp="1578227765494" />
+    <state x="434" y="101" key="CommitChangelistDialog2/0.23.1680.960@0.23.1680.960" timestamp="1578321414191" />
     <state x="168" y="108" key="DiffContextDialog" timestamp="1578226281276">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
@@ -144,10 +151,10 @@
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state width="1638" height="318" key="GridCell.Tab.1.right/0.23.1680.960@0.23.1680.960" timestamp="1578190885849" />
-    <state x="440" y="243" key="Vcs.Push.Dialog.v2" timestamp="1578227769105">
+    <state x="440" y="243" key="Vcs.Push.Dialog.v2" timestamp="1578321416435">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state x="440" y="243" key="Vcs.Push.Dialog.v2/0.23.1680.960@0.23.1680.960" timestamp="1578227769105" />
+    <state x="440" y="243" key="Vcs.Push.Dialog.v2/0.23.1680.960@0.23.1680.960" timestamp="1578321416435" />
     <state x="519" y="335" key="com.intellij.ide.util.TipDialog" timestamp="1578272125826">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
