@@ -2,10 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1111d498-2c54-4c60-b89d-26e932b90fc2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/hand/algorithm/Solution28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hand/algorithm/Solution29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution35.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hand/algorithm/Solution27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hand/algorithm/Solution27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hand/algorithm/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hand/algorithm/RandomListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/RandomListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hand/algorithm/Solution01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hand/algorithm/Solution02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hand/algorithm/Solution03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hand/algorithm/Solution04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hand/algorithm/Solution05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hand/algorithm/Solution06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hand/algorithm/Solution07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hand/algorithm/Solution08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hand/algorithm/Solution09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hand/algorithm/Solution10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hand/algorithm/Solution11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hand/algorithm/Solution12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hand/algorithm/Solution13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hand/algorithm/Solution14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hand/algorithm/Solution15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hand/algorithm/Solution16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hand/algorithm/Solution17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hand/algorithm/Solution18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hand/algorithm/Solution19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hand/algorithm/Solution20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hand/algorithm/Solution21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hand/algorithm/Solution22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hand/algorithm/Solution23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hand/algorithm/Solution24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hand/algorithm/Solution25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hand/algorithm/Solution26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hand/algorithm/Solution27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hand/algorithm/Solution28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution28.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hand/algorithm/Solution29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution29.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hand/algorithm/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/TreeNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +65,7 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -87,7 +123,9 @@
       <workItem from="1578617243620" duration="1000" />
       <workItem from="1578617259829" duration="111000" />
       <workItem from="1578617409626" duration="49000" />
-      <workItem from="1578617497946" duration="3104000" />
+      <workItem from="1578617497946" duration="3723000" />
+      <workItem from="1578797155395" duration="4009000" />
+      <workItem from="1578815174535" duration="674000" />
     </task>
     <task id="LOCAL-00001" summary="2020.01.05：第10题、12题-15题目">
       <created>1578226291943</created>
@@ -138,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578788180270</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="2020.01.12：早上三道题 27-29题">
+      <created>1578788278593</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1578788278593</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,10 +209,10 @@
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state x="653" y="219" key="#com.intellij.ide.util.MemberChooser/0.23.1680.960@0.23.1680.960" timestamp="1578786964397" />
-    <state x="434" y="101" key="CommitChangelistDialog2" timestamp="1578788180146">
+    <state x="434" y="101" key="CommitChangelistDialog2" timestamp="1578788278468">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state x="434" y="101" key="CommitChangelistDialog2/0.23.1680.960@0.23.1680.960" timestamp="1578788180146" />
+    <state x="434" y="101" key="CommitChangelistDialog2/0.23.1680.960@0.23.1680.960" timestamp="1578788278468" />
     <state x="168" y="108" key="DiffContextDialog" timestamp="1578788134003">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
@@ -212,17 +257,17 @@
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state x="349" y="142" key="SettingsEditor/0.23.1680.960@0.23.1680.960" timestamp="1578617845900" />
-    <state x="440" y="243" key="Vcs.Push.Dialog.v2" timestamp="1578788188450">
+    <state x="440" y="243" key="Vcs.Push.Dialog.v2" timestamp="1578788280910">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state x="440" y="243" key="Vcs.Push.Dialog.v2/0.23.1680.960@0.23.1680.960" timestamp="1578788188450" />
-    <state x="519" y="335" key="com.intellij.ide.util.TipDialog" timestamp="1578617498722">
+    <state x="440" y="243" key="Vcs.Push.Dialog.v2/0.23.1680.960@0.23.1680.960" timestamp="1578788280910" />
+    <state x="519" y="335" key="com.intellij.ide.util.TipDialog" timestamp="1578815174815">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state x="519" y="335" key="com.intellij.ide.util.TipDialog/0.23.1680.960@0.23.1680.960" timestamp="1578617498722" />
-    <state x="505" y="234" width="670" height="676" key="search.everywhere.popup" timestamp="1578787598977">
+    <state x="519" y="335" key="com.intellij.ide.util.TipDialog/0.23.1680.960@0.23.1680.960" timestamp="1578815174815" />
+    <state x="505" y="234" width="670" height="676" key="search.everywhere.popup" timestamp="1578797531283">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state x="505" y="234" width="670" height="676" key="search.everywhere.popup/0.23.1680.960@0.23.1680.960" timestamp="1578787598977" />
+    <state x="505" y="234" width="670" height="676" key="search.everywhere.popup/0.23.1680.960@0.23.1680.960" timestamp="1578797531283" />
   </component>
 </project>
