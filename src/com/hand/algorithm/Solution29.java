@@ -41,7 +41,7 @@ public class Solution29 {
     }
 
     /**
-     * 解法2:快速排序
+     * 解法2：快速排序
      *
      * @param input
      * @param k

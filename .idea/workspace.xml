@@ -87,7 +87,7 @@
       <workItem from="1578617243620" duration="1000" />
       <workItem from="1578617259829" duration="111000" />
       <workItem from="1578617409626" duration="49000" />
-      <workItem from="1578617497946" duration="2853000" />
+      <workItem from="1578617497946" duration="3104000" />
     </task>
     <task id="LOCAL-00001" summary="2020.01.05：第10题、12题-15题目">
       <created>1578226291943</created>
@@ -131,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578618035320</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="2020.01.12：早上三道题 27-29题">
+      <created>1578788180270</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1578788180270</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,7 +152,8 @@
     <MESSAGE value="2020.01.06：21-22题" />
     <MESSAGE value="2020.01.07：23-24题" />
     <MESSAGE value="2020.01.06：25-26题 希望今天不加班。。。" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.01.06：25-26题 希望今天不加班。。。" />
+    <MESSAGE value="2020.01.12：早上三道题 27-29题" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.01.12：早上三道题 27-29题" />
   </component>
   <component name="WindowStateProjectService">
     <state x="304" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578221134353">
@@ -156,14 +164,14 @@
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state x="653" y="219" key="#com.intellij.ide.util.MemberChooser/0.23.1680.960@0.23.1680.960" timestamp="1578786964397" />
-    <state x="434" y="101" key="CommitChangelistDialog2" timestamp="1578618035119">
+    <state x="434" y="101" key="CommitChangelistDialog2" timestamp="1578788180146">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state x="434" y="101" key="CommitChangelistDialog2/0.23.1680.960@0.23.1680.960" timestamp="1578618035119" />
-    <state x="168" y="108" key="DiffContextDialog" timestamp="1578226281276">
+    <state x="434" y="101" key="CommitChangelistDialog2/0.23.1680.960@0.23.1680.960" timestamp="1578788180146" />
+    <state x="168" y="108" key="DiffContextDialog" timestamp="1578788134003">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state x="168" y="108" key="DiffContextDialog/0.23.1680.960@0.23.1680.960" timestamp="1578226281276" />
+    <state x="168" y="108" key="DiffContextDialog/0.23.1680.960@0.23.1680.960" timestamp="1578788134003" />
     <state width="1638" height="318" key="GridCell.Tab.0.bottom" timestamp="1578190885848">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
@@ -204,10 +212,10 @@
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state x="349" y="142" key="SettingsEditor/0.23.1680.960@0.23.1680.960" timestamp="1578617845900" />
-    <state x="440" y="243" key="Vcs.Push.Dialog.v2" timestamp="1578618037158">
+    <state x="440" y="243" key="Vcs.Push.Dialog.v2" timestamp="1578788188450">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state x="440" y="243" key="Vcs.Push.Dialog.v2/0.23.1680.960@0.23.1680.960" timestamp="1578618037158" />
+    <state x="440" y="243" key="Vcs.Push.Dialog.v2/0.23.1680.960@0.23.1680.960" timestamp="1578788188450" />
     <state x="519" y="335" key="com.intellij.ide.util.TipDialog" timestamp="1578617498722">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
