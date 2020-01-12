@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1111d498-2c54-4c60-b89d-26e932b90fc2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/hand/algorithm/Solution26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hand/algorithm/Solution27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hand/algorithm/Solution28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hand/algorithm/Solution29.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hand/algorithm/Solution25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hand/algorithm/Solution25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hand/algorithm/Solution27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hand/algorithm/Solution27.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +87,7 @@
       <workItem from="1578617243620" duration="1000" />
       <workItem from="1578617259829" duration="111000" />
       <workItem from="1578617409626" duration="49000" />
-      <workItem from="1578617497946" duration="405000" />
+      <workItem from="1578617497946" duration="2853000" />
     </task>
     <task id="LOCAL-00001" summary="2020.01.05：第10题、12题-15题目">
       <created>1578226291943</created>
@@ -124,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578358339461</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="2020.01.06：25-26题 希望今天不加班。。。">
+      <created>1578618035320</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1578618035320</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,17 +144,22 @@
     <MESSAGE value="2020.01.06：17-20题" />
     <MESSAGE value="2020.01.06：21-22题" />
     <MESSAGE value="2020.01.07：23-24题" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.01.07：23-24题" />
+    <MESSAGE value="2020.01.06：25-26题 希望今天不加班。。。" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.01.06：25-26题 希望今天不加班。。。" />
   </component>
   <component name="WindowStateProjectService">
     <state x="304" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578221134353">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state x="304" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.960@0.23.1680.960" timestamp="1578221134353" />
-    <state x="434" y="101" key="CommitChangelistDialog2" timestamp="1578358339302">
+    <state x="653" y="219" key="#com.intellij.ide.util.MemberChooser" timestamp="1578786964397">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state x="434" y="101" key="CommitChangelistDialog2/0.23.1680.960@0.23.1680.960" timestamp="1578358339302" />
+    <state x="653" y="219" key="#com.intellij.ide.util.MemberChooser/0.23.1680.960@0.23.1680.960" timestamp="1578786964397" />
+    <state x="434" y="101" key="CommitChangelistDialog2" timestamp="1578618035119">
+      <screen x="0" y="23" width="1680" height="960" />
+    </state>
+    <state x="434" y="101" key="CommitChangelistDialog2/0.23.1680.960@0.23.1680.960" timestamp="1578618035119" />
     <state x="168" y="108" key="DiffContextDialog" timestamp="1578226281276">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
@@ -192,17 +204,17 @@
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state x="349" y="142" key="SettingsEditor/0.23.1680.960@0.23.1680.960" timestamp="1578617845900" />
-    <state x="440" y="243" key="Vcs.Push.Dialog.v2" timestamp="1578358341599">
+    <state x="440" y="243" key="Vcs.Push.Dialog.v2" timestamp="1578618037158">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state x="440" y="243" key="Vcs.Push.Dialog.v2/0.23.1680.960@0.23.1680.960" timestamp="1578358341599" />
+    <state x="440" y="243" key="Vcs.Push.Dialog.v2/0.23.1680.960@0.23.1680.960" timestamp="1578618037158" />
     <state x="519" y="335" key="com.intellij.ide.util.TipDialog" timestamp="1578617498722">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state x="519" y="335" key="com.intellij.ide.util.TipDialog/0.23.1680.960@0.23.1680.960" timestamp="1578617498722" />
-    <state x="505" y="234" width="670" height="676" key="search.everywhere.popup" timestamp="1578320585738">
+    <state x="505" y="234" width="670" height="676" key="search.everywhere.popup" timestamp="1578787598977">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state x="505" y="234" width="670" height="676" key="search.everywhere.popup/0.23.1680.960@0.23.1680.960" timestamp="1578320585738" />
+    <state x="505" y="234" width="670" height="676" key="search.everywhere.popup/0.23.1680.960@0.23.1680.960" timestamp="1578787598977" />
   </component>
 </project>
