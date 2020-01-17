@@ -12,7 +12,7 @@ import java.util.ArrayList;
  */
 public class Solution42 {
     /**
-     * 思路：左右加逼
+     * 左右加逼
      *
      * @param array
      * @param sum
