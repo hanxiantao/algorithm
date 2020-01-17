@@ -7,7 +7,7 @@ package com.hand.algorithm.offer;
  */
 public class Solution01 {
     /**
-     * 思路：从左下找
+     * 从左下找：
      * 利用该二维数组的性质，左下角的值m为该行最小的值，该列最大的值
      * <p>
      * 每次将m和目标值target比较：

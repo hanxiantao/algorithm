@@ -10,7 +10,7 @@ package com.hand.algorithm.offer;
  */
 public class Solution30 {
     /**
-     * 思路：DP
+     * DP
      *
      * @param array
      * @return

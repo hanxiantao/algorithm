@@ -9,7 +9,7 @@ package com.hand.algorithm.offer;
  */
 public class Solution06 {
     /**
-     * 思路：二分查找
+     * 二分查找：
      * 有三种情况找到最小值：
      * 1、下标为n+1的值小于下标为n的值，则下标为n+1的值肯定是最小元素
      * 2、下标为n的值小于下标为n-1的值，则下标为n的值肯定是最小元素

@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1111d498-2c54-4c60-b89d-26e932b90fc2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution41.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution43.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hand/algorithm/offer/Solution30.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +30,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1VuYXvZk7FM682e5GRFDD9mHX1c" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -92,7 +102,8 @@
       <workItem from="1578815174535" duration="1190000" />
       <workItem from="1578826158401" duration="6000" />
       <workItem from="1578874967541" duration="1745000" />
-      <workItem from="1578916653478" duration="1201000" />
+      <workItem from="1578916653478" duration="1625000" />
+      <workItem from="1579218747251" duration="1833000" />
     </task>
     <task id="LOCAL-00001" summary="2020.01.05：第10题、12题-15题目">
       <created>1578226291943</created>
@@ -164,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578875844227</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="2020.01.13：40题">
+      <created>1578918312547</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1578918312547</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,7 +199,8 @@
     <MESSAGE value="2020.01.12：早上三道题 27-29题" />
     <MESSAGE value="2020.01.12：30题" />
     <MESSAGE value="2020.01.12：36-38题 年前每天晚上2-3道题吧 过年leetcode+剑指offer每天5-10道题 加油！！ 冲冲冲" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020.01.12：36-38题 年前每天晚上2-3道题吧 过年leetcode+剑指offer每天5-10道题 加油！！ 冲冲冲" />
+    <MESSAGE value="2020.01.13：40题" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020.01.13：40题" />
   </component>
   <component name="WindowStateProjectService">
     <state x="304" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578221134353">
@@ -196,14 +215,14 @@
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state x="616" y="340" key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog/0.23.1680.960@0.23.1680.960" timestamp="1578876455063" />
-    <state x="434" y="101" key="CommitChangelistDialog2" timestamp="1578875843874">
+    <state x="352" y="101" key="CommitChangelistDialog2" timestamp="1578918312363">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state x="434" y="101" key="CommitChangelistDialog2/0.23.1680.960@0.23.1680.960" timestamp="1578875843874" />
-    <state x="168" y="108" key="DiffContextDialog" timestamp="1578821381470">
+    <state x="352" y="101" key="CommitChangelistDialog2/0.23.1680.960@0.23.1680.960" timestamp="1578918312363" />
+    <state x="168" y="108" key="DiffContextDialog" timestamp="1578918296563">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state x="168" y="108" key="DiffContextDialog/0.23.1680.960@0.23.1680.960" timestamp="1578821381470" />
+    <state x="168" y="108" key="DiffContextDialog/0.23.1680.960@0.23.1680.960" timestamp="1578918296563" />
     <state width="1638" height="318" key="GridCell.Tab.0.bottom" timestamp="1578190885848">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
@@ -244,17 +263,17 @@
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state x="349" y="142" key="SettingsEditor/0.23.1680.960@0.23.1680.960" timestamp="1578617845900" />
-    <state x="440" y="243" key="Vcs.Push.Dialog.v2" timestamp="1578875845942">
+    <state x="440" y="243" key="Vcs.Push.Dialog.v2" timestamp="1578918323291">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state x="440" y="243" key="Vcs.Push.Dialog.v2/0.23.1680.960@0.23.1680.960" timestamp="1578875845942" />
-    <state x="519" y="335" key="com.intellij.ide.util.TipDialog" timestamp="1578815174815">
+    <state x="440" y="243" key="Vcs.Push.Dialog.v2/0.23.1680.960@0.23.1680.960" timestamp="1578918323291" />
+    <state x="519" y="335" key="com.intellij.ide.util.TipDialog" timestamp="1579218752994">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state x="519" y="335" key="com.intellij.ide.util.TipDialog/0.23.1680.960@0.23.1680.960" timestamp="1578815174815" />
-    <state x="505" y="234" width="670" height="676" key="search.everywhere.popup" timestamp="1578797531283">
+    <state x="519" y="335" key="com.intellij.ide.util.TipDialog/0.23.1680.960@0.23.1680.960" timestamp="1579218752994" />
+    <state x="505" y="234" width="670" height="676" key="search.everywhere.popup" timestamp="1579219824807">
       <screen x="0" y="23" width="1680" height="960" />
     </state>
-    <state x="505" y="234" width="670" height="676" key="search.everywhere.popup/0.23.1680.960@0.23.1680.960" timestamp="1578797531283" />
+    <state x="505" y="234" width="670" height="676" key="search.everywhere.popup/0.23.1680.960@0.23.1680.960" timestamp="1579219824807" />
   </component>
 </project>

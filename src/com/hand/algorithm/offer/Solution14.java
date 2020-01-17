@@ -6,7 +6,7 @@ package com.hand.algorithm.offer;
  */
 public class Solution14 {
     /**
-     * 思路：快慢指针
+     * 快慢指针
      *
      * @param head
      * @param k

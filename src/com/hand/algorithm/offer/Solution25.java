@@ -10,7 +10,7 @@ import java.util.HashMap;
  */
 public class Solution25 {
     /**
-     * 思路：散列表
+     * 散列表
      *
      * @param pHead
      * @return

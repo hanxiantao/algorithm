@@ -10,7 +10,6 @@ public class Solution26 {
     TreeNode pLast = null;
 
     /**
-     * 思路：
      * 先中序遍历，修改当前遍历节点与前一遍历节点的指针指向
      * 每个节点的right设为下一个节点，下一个节点的left设为上一个节点
      *
