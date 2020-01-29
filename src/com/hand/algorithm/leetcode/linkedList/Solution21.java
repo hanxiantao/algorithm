@@ -1,7 +1,7 @@
 package com.hand.algorithm.leetcode.linkedList;
 
 /**
- * [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)
+ * 21. 合并两个有序链表
  */
 public class Solution21 {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {

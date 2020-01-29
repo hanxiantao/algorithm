@@ -1,7 +1,7 @@
 package com.hand.algorithm.leetcode.linkedList;
 
 /**
- * [142. 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
+ * 142. 环形链表 II
  */
 public class Solution142 {
     public ListNode detectCycle(ListNode head) {

@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * [15. 三数之和](https://leetcode-cn.com/problems/3sum/)
+ * 15. 三数之和
  */
 public class Solution15 {
     public List<List<Integer>> threeSum(int[] nums) {
@@ -30,5 +30,4 @@ public class Solution15 {
         }
         return result;
     }
-
 }

@@ -1,7 +1,7 @@
 package com.hand.algorithm.leetcode.linkedList;
 
 /**
- * [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
+ * 141. 环形链表
  */
 public class Solution141 {
     public boolean hasCycle(ListNode head) {

@@ -1,7 +1,7 @@
 package com.hand.algorithm.leetcode.linkedList;
 
 /**
- * [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
+ * 206. 反转链表
  */
 public class Solution206 {
     public ListNode reverseList(ListNode head) {
