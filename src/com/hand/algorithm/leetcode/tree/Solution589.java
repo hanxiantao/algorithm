@@ -4,21 +4,21 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * 590. N叉树的后序遍历
+ * 589. N叉树的前序遍历
  */
-public class Solution590 {
+public class Solution589 {
     List<Integer> result = new ArrayList<>();
 
-    public List<Integer> postorder(Node root) {
+    public List<Integer> preorder(Node root) {
         helper(root);
         return result;
     }
 
     private void helper(Node root) {
         if (root == null) return;
+        result.add(root.val);
         for (Node node : root.children) {
             helper(node);
         }
-        result.add(root.val);
     }
 }
